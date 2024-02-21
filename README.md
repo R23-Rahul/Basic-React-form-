@@ -1,1 +1,1 @@
-
+The form has basic structure that is created using React. in this code there is mentioned field to fill and after the entry of data , clicking on the submit buttion save the data of the  form in object.
